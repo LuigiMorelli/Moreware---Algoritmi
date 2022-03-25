@@ -7,3 +7,4 @@ Source code used on our "Algoritmi" channel on YouTube
 2021-11-23 - Algoritmi - Il paradosso del compleanno <br />
 2022-02-04 - Algoritmi - Uso della media mobile <br />
 2022-03-19 - Algoritmi - La congettura di Collatz e le catene a chicco di grandine </b>
+2022-03-26 - Algoritmi - Password cracking analysis</b>
