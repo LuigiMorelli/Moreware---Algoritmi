@@ -8,5 +8,5 @@ Source code used on our "Algoritmi" channel on YouTube
 2022-02-04 - Algoritmi - Uso della media mobile <br />
 2022-03-19 - Algoritmi - La congettura di Collatz e le catene a chicco di grandine </br>
 2022-03-26 - Algoritmi - Password cracking analysis</br>
-2022-09-23 - Algoritmi - Ricerca dei Numeri di Armstrong</ br>
+2022-09-23 - Algoritmi - Ricerca dei Numeri di Armstrong<br />
 2022-11-19 - Algoritmi - Calcolare il resto con Greedy<br />
