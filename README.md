@@ -11,3 +11,5 @@ Source code used on our "Algoritmi" channel on YouTube
 2022-09-23 - Algoritmi - Ricerca dei Numeri di Armstrong<br />
 2022-11-19 - Algoritmi - Calcolare il resto con Greedy<br />
 2022-12-24 - Algoritmi - Progettare la battaglia navale<br />
+2022-12-28 - Algoritmi - Mario Bros. e il disegno della scaletta rovesciata <br />
+2023-01-07 - Algoritmi - Mario Bros, il fossato, la piattaforma e la piramide <br />
